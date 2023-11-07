@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "name": "Asha",
+      "age": 0,
+      "id": 1
+    },
+    {
+      "name": "Anjali",
+      "age": 23,
+      "id": 2
+    },
+    {
+      "name": "Anjali",
+      "age": 23,
+      "id": 3
+    },
+    {
+      "name": "Jimmy",
+      "age": 35,
+      "id": 4
+    },
+    {
+      "name": "Jimmy",
+      "age": 35,
+      "id": 5
+    },
+    {
+      "name": "Jimmy",
+      "age": 35,
+      "id": 6
+    },
+    {
+      "name": "Jimmy",
+      "age": 35,
+      "id": 7
+    },
+    {
+      "name": "Jimmy",
+      "age": 35,
+      "id": 8
+    },
+    {
+      "name": "John",
+      "age": 16,
+      "id": 9
+    },
+    {
+      "name": "John",
+      "age": 16,
+      "id": 10
+    }
+  ]
+}
